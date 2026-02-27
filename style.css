@@ -13,11 +13,11 @@ body {
   position: relative;
 }
 
-h1 {
+h2 {
   text-align: center;
   color: white;
   font-family: "Montserrat Alternates", sans-serif;
-  font-size: 40px;
+  font-size: 30px;
   position: absolute;
   z-index: 1;
   width: 100%;
@@ -47,7 +47,7 @@ h1 {
   height: 20%;
   border-radius: 0% 50% 0% 50%;
   position: absolute;
-  background: #6f8e4b;
+  background: rgb(111.1144578313, 142.4879518072, 74.5120481928);
   top: 70%;
   left: 45%;
   transform: translate(-100%, -50%) rotate(-20deg);
@@ -174,4 +174,6 @@ h1 {
     width: 10%;
     border: 2px solid black;
   }
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */

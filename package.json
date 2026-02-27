@@ -1,0 +1,16 @@
+{
+  "name": "happy-anniversary-flower",
+  "version": "1.0.0",
+  "description": "Happy Anniversary Flower Animation",
+  "main": "index.html",
+  "scripts": {
+    "scss": "sass style.scss style.css --watch",
+    "build:css": "sass style.scss style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.0"
+  }
+}
